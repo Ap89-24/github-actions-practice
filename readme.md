@@ -4,4 +4,4 @@
 
 ## 1. Workflows
 
-To start GitHub you need a folder called `/.github/workflows`
+To start GitHub you need a folder called `.github/workflows`
